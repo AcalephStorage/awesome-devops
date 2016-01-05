@@ -38,6 +38,10 @@ DevOps (a clipped compound of "development" and "operations") is a culture, move
 
 ### Quality
 
+### Open Source
+
+- [Making Your Open Source Project Newcomer-friendly](http://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/)
+
 ## Technology
 
 - [Basic Infrastructure Patterns](http://www.scriptcrafty.com/basic-infrastructure-patterns/) - Basic patterns seen while working on build/CI/deployment technology
