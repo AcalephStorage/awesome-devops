@@ -19,6 +19,7 @@ DevOps (a clipped compound of "development" and "operations") is a culture, move
 
 - [DevOps Culture](http://martinfowler.com/bliki/DevOpsCulture.html)
 - [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - States that organisations will tend to produce systems that mirror their communication structures
+- [How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.ilxplhbdh) - Some useful tips on hiring
 
 ## Process
 
