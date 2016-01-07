@@ -63,6 +63,7 @@ DevOps (a clipped compound of "development" and "operations") is a culture, move
 ### Security
 
 - [You Wouldn't Base64 a Password - Cryptography Decoded](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded) - A primer on Cryptography for Developers
+- [How to Protect Your Infrastructure Against the Basic Attacker](http://blog.mailgun.com/security-guide-basic-infrastructure-security/) - A good outline of important security configurations in Linux based systems
 
 ## Tools
 
