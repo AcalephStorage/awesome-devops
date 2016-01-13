@@ -50,7 +50,7 @@ DevOps (a clipped compound of "development" and "operations") is a culture, move
 ### Containers
 - [The Curious Case of Linux Containers](https://medium.com/@sumbry/the-curious-case-of-linux-containers-328e2adc12a2#.j1hbq72im) - A Blog Post discussing real issues of deploying containers across distributed systems.
 - [The Oncoming Train of Enterprise Container Deployments](http://www.juliandunn.net/2015/12/04/the-oncoming-train-of-enterprise-container-deployments/) - Blog summary of containers and a few antipatterns.
-- [DevOps, containers & microservices: Separating the hype from the reality](http://www.slideshare.net/dberkholz/devops-containers-microservices-separating-the-hype-from-the-reality) - A presentation outlining a future of how to build and deploy applications to generate business value.
+- [DevOps, Containers & Microservices: Separating the hype from the reality](http://www.slideshare.net/dberkholz/devops-containers-microservices-separating-the-hype-from-the-reality) - A presentation outlining a future of how to build and deploy applications to generate business value.
 - [Tectonic Summit Videos](https://www.youtube.com/playlist?list=PLlh6TqkU8kg_Eydfk1Nyt6iK7wM8v9bRA) - A YouTube playlist of Container and DevOps presentationss from the Tectonic Summit in December 2015
 
 ### Operating Systems
