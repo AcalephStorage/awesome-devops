@@ -25,12 +25,12 @@ Culture
 -	[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - States that organisations will tend to produce systems that mirror their communication structures
 -	[How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.ilxplhbdh) - Some useful tips on hiring
 -	[What security experts need to know about DevOps and continuous delivery](https://labs.signalsciences.com/what-security-experts-need-to-know-about-devops-and-continuous-delivery-f9e0d53dd09f#.7y0lxtsr9) - Info and benefits for Security and DevOps teams working together
+-	DevOps and the Myth of Efficiency [Part 1](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/) & [Part 2](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-ii/)
 
 Process
 -------
 
 -	[The War of Independence for Enterprise Architecture](https://medium.com/compliance-at-velocity/the-war-of-independence-for-enterprise-architecture-1ed8eb34af3f#.kts5s5a12) - the role of Enterprise Architects in DevOps: 4 ‘R’s - Review, Renewal, Refactoring, Resilience
--	[DevOps and the Myth of Efficiency, Part I](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/) - Complicated vs Complex
 -	[Choosing Design over Architecture](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) - Starting from user stories and user experience
 -	[How to write a Postmortem](https://blog.serverdensity.com/how-to-write-a-postmortem/)
 
