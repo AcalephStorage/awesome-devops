@@ -25,7 +25,7 @@ Culture
 -	[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - States that organisations will tend to produce systems that mirror their communication structures
 -	[How to Hire](https://medium.com/swlh/how-to-hire-34f4ded5f176#.ilxplhbdh) - Some useful tips on hiring
 -	[What security experts need to know about DevOps and continuous delivery](https://labs.signalsciences.com/what-security-experts-need-to-know-about-devops-and-continuous-delivery-f9e0d53dd09f#.7y0lxtsr9) - Info and benefits for Security and DevOps teams working together
--	DevOps and the Myth of Efficiency [Part 1](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/) & [Part 2](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-ii/)
+-	DevOps and the Myth of Efficiency [Part 1](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-i/) & [Part 2](http://blog.christianposta.com/devops/devops-and-the-myth-of-efficiency-part-ii/) - Complex vs Complicated and Efficiency - DevOps for Enterprise
 
 Process
 -------
