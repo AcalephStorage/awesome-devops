@@ -63,6 +63,7 @@ Technology
 -	[The Oncoming Train of Enterprise Container Deployments](http://www.juliandunn.net/2015/12/04/the-oncoming-train-of-enterprise-container-deployments/) - Blog summary of containers and a few antipatterns.
 -	[DevOps, Containers & Microservices: Separating the hype from the reality](http://www.slideshare.net/dberkholz/devops-containers-microservices-separating-the-hype-from-the-reality) - A presentation outlining a future of how to build and deploy applications to generate business value.
 -	[Tectonic Summit Videos](https://www.youtube.com/playlist?list=PLlh6TqkU8kg_Eydfk1Nyt6iK7wM8v9bRA) - A YouTube playlist of Container and DevOps presentationss from the Tectonic Summit in December 2015
+- [A Practical Introduction to Docker Container Terminology](http://developerblog.redhat.com/2016/01/13/a-practical-introduction-to-docker-container-terminology/) - When discussing an architecture for containerization, it’s important to have a solid grasp on the related vocabulary.
 
 ### Operating Systems
 
