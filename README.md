@@ -56,6 +56,7 @@ Technology
 ----------
 
 -	[Basic Infrastructure Patterns](http://www.scriptcrafty.com/basic-infrastructure-patterns/) - Basic patterns seen while working on build/CI/deployment technology
+-	[Infrastructure as Code](http://martinfowler.com/bliki/InfrastructureAsCode.html) - the approach to defining infrastructure through code that can then be treated just like any software
 
 ### Containers
 
