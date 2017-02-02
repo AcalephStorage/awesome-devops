@@ -132,5 +132,6 @@ Misc
 
 -	[Awesome Lists](https://github.com/sindresorhus/awesome) - A list of Awesome lists (very meta!)
 -	[DevOps Weekly](http://www.devopsweekly.com/) - A weekly mailing list with interesting DevOps related News and Tools
+-	[DevOpsLinks](http://devopslinks.com/) - A newsletter & team chat with interesting DevOps related News and Tools
 -	[Sysadvent](http://sysadvent.blogspot.co.uk) - One DevOps/Sysadmin related article for each day of December, ending on the 25th article.
 -	[The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=sr_1_1?ie=UTF8&qid=1451900824&sr=8-1&keywords=project+phoenix) - A Novel about IT, DevOps, and Helping Your Business Win
