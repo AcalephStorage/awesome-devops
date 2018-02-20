@@ -136,3 +136,4 @@ Misc
 -	[DevOpsLinks](http://devopslinks.com/) - A newsletter & team chat with interesting DevOps related News and Tools
 -	[Sysadvent](http://sysadvent.blogspot.co.uk) - One DevOps/Sysadmin related article for each day of December, ending on the 25th article.
 -	[The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=sr_1_1?ie=UTF8&qid=1451900824&sr=8-1&keywords=project+phoenix) - A Novel about IT, DevOps, and Helping Your Business Win
+-   [DevOps'ish](https://devopsish.com/) - A newsletter focused on People, Process, and Tools in the DevOps, Cloud Native, and Open Source spaces.
