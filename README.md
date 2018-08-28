@@ -135,6 +135,14 @@ Tools
 - [VictorOps](https://victorops.com/)
 - [PagerDuty](https://www.pagerduty.com/)
 
+### DNS
+
+- [dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL - by StackExchange
+- [denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash - By Netfilx
+- [octodns](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers - By GitHub
+- [lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way. 
+
+
 Misc
 ----
 
