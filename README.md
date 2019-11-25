@@ -88,6 +88,7 @@ Tools
 ### Containers
 
 -	[Docker](https://www.docker.com/) - The tool that kickstarted the modern container movement
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - A boilerplate + helper CLI to create Docker Swarm development environments and production deployments with Ansible, Vagrant and Terraform.
 -	[rkt](https://coreos.com/rkt/docs/latest/) - An alternative container runtime and spec by the team at CoreOS
 
 ### Operating Systems
