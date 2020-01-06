@@ -38,7 +38,7 @@ Process
 ### Project Management
 
 -	[Organizing GitHub issues](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/) - One (of many) approaches to managing and tagging Github issues
--	[Release Ready Teams](https://www.atlassian.com/agile/release-ready-agile-teams) - An infographic showing the how Atlassian's agile teams release early and often
+-	[Release Ready Teams](https://www.atlassian.com/agile/release-ready-teams) - An infographic showing the how Atlassian's agile teams release early and often
 -	[Using Kanban over Scrum](https://medium.com/cto-school/ditching-scrum-for-kanban-the-best-decision-we-ve-made-as-a-team-cd1167014a6f#.p8a1zicwm) - A useful post on the benefits of Kanban over Scrum (but not always relevant for every team)
 
 ### Mapping
