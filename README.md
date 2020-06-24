@@ -127,6 +127,7 @@ Tools
 -	[Shippable](https://app.shippable.com/)
 -	[Travis](https://travis-ci.org/)
 -	[Gitlab CI](https://about.gitlab.com/)
+-   [Humanitec](https://humanitec.com/)
 
 ### Incident Management
 
