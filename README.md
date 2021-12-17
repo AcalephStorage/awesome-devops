@@ -134,6 +134,7 @@ Tools
 - [OpsGenie](https://www.opsgenie.com/)
 - [VictorOps](https://victorops.com/)
 - [PagerDuty](https://www.pagerduty.com/)
+- [Squadcast](https://www.squadcast.com/)
 
 Misc
 ----
